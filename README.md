@@ -1,3 +1,4 @@
+#🤖
 # Conex: Comunicación Simple y Segura
 
 Tu plataforma web de comunicación en tiempo real, hecha con HTML, CSS y JavaScript puro 🚀.
