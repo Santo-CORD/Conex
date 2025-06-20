@@ -1,5 +1,5 @@
-#🤖
-# Conex: Comunicación Simple y Segura
+
+# 🤖Conex: Comunicación Simple y Segura
 
 Tu plataforma web de comunicación en tiempo real, hecha con HTML, CSS y JavaScript puro 🚀.
 Incluye login 🔐, verificación por Captcha 🤖, un panel personalizado 🧑‍💻 y un chatbot básico 💬 llamado Fox.
