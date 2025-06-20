@@ -1,35 +1,21 @@
-🔗✨ Conex – Plataforma web de comunicación
+# Conex: Comunicación Simple y Segura
 
-Conex es una plataforma web de comunicación en tiempo real desarrollada con HTML, CSS y JavaScript puro 🚀 — sin bases de datos externas 🛡️.
+Tu plataforma web de comunicación en tiempo real, hecha con HTML, CSS y JavaScript puro 🚀.
+Incluye login 🔐, verificación por Captcha 🤖, un panel personalizado 🧑‍💻 y un chatbot básico 💬 llamado Fox.
+Sin bases de datos ni servidores externos: los datos se almacenan localmente 💾 en el navegador 🌐.
 
-🧠 Funcionalidades principales:
-	•	🔐 Login y registro con validación mediante Captcha
-	•	🧑‍💻 Panel personalizado tras iniciar sesión:
-	•	🏠 Menú principal
-	•	🤖 Chatbot “Fox”
-	•	⚙️ Ajustes del perfil
-	•	👨‍💻 Sección especial del desarrollador (Santo Cord)
+Pensada para ser ligera, educativa, privada y fácil de usar.
 
-🛠️ Tecnologías utilizadas:
-	•	📄 HTML5 – estructura de la plataforma
-	•	🎨 CSS3 – diseño con tema oscuro y tonos azules
-	•	📜 JavaScript (vanilla) – lógica de usuario, Captcha, chatbot
-	•	💾 LocalStorage – guarda los datos directamente en el navegador
+⸻
 
-🤖 Chatbot “Fox”:
+🧪 Estado: En desarrollo
 
-Un bot simple que responde automáticamente a frases básicas como:
-	•	👋 “Hola”
-	•	❓ “¿Cómo estás?”
-	•	👋 “Adiós”
+📄 Licencia: MIT
 
-🔐 Seguridad:
-	•	🛡️ Captcha para evitar bots
-	•	🔒 Datos seguros en el navegador
-	•	❌ Sin bases de datos externas ni conexión a servidores
+🔖 Versión: 1.0.0
 
-📈 Próximas mejoras:
-	•	🔑 Login más avanzado (con APIs o IA)
-	•	🧠 Chatbot inteligente real
-	•	🎨 Temas personalizables (modo claro/oscuro)
-	•	💬 Secciones tipo comunidad o foros
+🙌 Contribuciones: ¡Bienvenidas!
+
+⸻
+
+Conex es rápida, segura y sin complicaciones. Todo corre directamente en el navegador, sin depender de la nube. Perfecta para mostrar tus habilidades en desarrollo web.
