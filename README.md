@@ -10,9 +10,9 @@ Pensada para ser ligera, educativa, privada y fácil de usar.
 
 🧪 Estado: En desarrollo
 
-📄 Licencia: MIT
+📄 Licencia: NOT FOUND
 
-🔖 Versión: 1.0.0
+🔖 Versión: 1.0.0 BETA
 
 🙌 Contribuciones: ¡Bienvenidas!
 
